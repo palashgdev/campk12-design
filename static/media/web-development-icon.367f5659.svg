@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>C0D8B310-E7DA-4B73-9353-E1EBAC001D64</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="89.010923%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#DCECFF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="54" cy="54" r="54"></circle>
+        <filter x="-0.9%" y="-0.9%" width="101.9%" height="101.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.738455351   0 0 0 0 0.840650218   0 0 0 0 0.970716412  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-24.5%" y="-24.5%" width="149.0%" height="149.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0615375906 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="39.8565888%" y1="28.5614547%" x2="39.8565896%" y2="127.7317%" id="linearGradient-5">
+            <stop stop-color="#2F48E4" offset="0%"></stop>
+            <stop stop-color="#AAACFC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UIAssignment_LandingPage_Simplified-Copy" transform="translate(-318.000000, -657.000000)">
+            <g id="Group-3" transform="translate(268.000000, 633.000000)">
+                <g id="Group-5-Copy-5">
+                    <g id="Group-14" transform="translate(50.000000, 24.000000)">
+                        <g id="Avatar">
+                            <g id="Oval-2">
+                                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            </g>
+                        </g>
+                        <g id="Group-4" filter="url(#filter-4)" transform="translate(30.000000, 30.000000)">
+                            <g id="Group-2-Copy">
+                                <path d="M48.8706336,5.63717778 L48.8706336,43.2334558 C48.8706336,46.342582 46.3355357,48.8706336 43.2177436,48.8706336 L5.64532249,48.8706336 C2.52753045,48.8706336 0,46.342582 0,43.2334558 L0,5.63717778 C0,2.52805161 2.52753045,0 5.64532249,0 L43.2177436,0 C46.3355357,0 48.8706336,2.52805161 48.8706336,5.63717778 Z" id="Stroke-1" fill="url(#linearGradient-5)"></path>
+                                <path d="M0,13.5334062 L48.8706336,13.5334062" id="Stroke-3" stroke="#FFFFFF" stroke-width="1.8"></path>
+                                <path d="M11.2778385,6.76670311 C11.2778385,7.59755056 10.6044169,8.27041492 9.77448568,8.27041492 C8.94383658,8.27041492 8.27041492,7.59755056 8.27041492,6.76670311 C8.27041492,5.93585566 8.94383658,5.26299131 9.77448568,5.26299131 C10.6044169,5.26299131 11.2778385,5.93585566 11.2778385,6.76670311" id="Fill-5" fill="#FFFFFF"></path>
+                                <path d="M15.037477,8.27041492 C14.2068279,8.27041492 13.5334062,7.59755056 13.5334062,6.76670311 C13.5334062,5.93585566 14.2068279,5.26299131 15.037477,5.26299131 C15.8674082,5.26299131 16.5408298,5.93585566 16.5408298,6.76670311 C16.5408298,7.59755056 15.8674082,8.27041492 15.037477,8.27041492 Z" id="Fill-7" fill="#FFFFFF"></path>
+                                <polyline id="Stroke-11" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" points="18.0445416 27.0668125 10.5259826 31.9542543 17.9065198 36.8409392"></polyline>
+                                <polyline id="Stroke-13" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" points="30.826092 27.0668125 38.344651 31.9542543 30.9641138 36.8409392"></polyline>
+                                <path d="M26.3149565,22.555677 L21.8038211,39.8483628" id="Stroke-15" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

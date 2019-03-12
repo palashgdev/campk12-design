@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>6FF98425-D08B-45BD-BBFA-5FF53C262526</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M35.5,22.6666667 L17.1066667,22.6666667 L21.5274321,18.2335527 C21.7222295,18.0382112 21.722009,17.722009 21.5269394,17.5269394 L20.3535534,16.3535534 C20.1582912,16.1582912 19.8417088,16.1582912 19.6464466,16.3535534 L12,24 L19.6464466,31.6464466 C19.8417088,31.8417088 20.1582912,31.8417088 20.3535534,31.6464466 L21.5269394,30.4730606 C21.722009,30.277991 21.7222295,29.9617888 21.5274321,29.7664473 L17.1066667,25.3333333 L35.5,25.3333333 C35.7761424,25.3333333 36,25.1094757 36,24.8333333 L36,23.1666667 C36,22.8905243 35.7761424,22.6666667 35.5,22.6666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UIAssignment_LandingPage_Simplified-Copy" transform="translate(-1249.000000, -739.000000)">
+            <g id="Group" transform="translate(1237.000000, 723.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Shape" fill="#076FEC" transform="translate(24.000000, 24.000000) scale(-1, 1) translate(-24.000000, -24.000000) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

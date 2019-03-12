@@ -1,0 +1,34 @@
+.arrow-container{
+  height: 48px;
+  background: white;
+  width: 48px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slick-prev {
+  left: -6% !important;
+  z-index: 1;
+}
+.slick-next {
+  right: -5% !important;
+  z-index: 1;
+}
+
+ .slick-prev:before, .slick-next:before  {
+  content: '' !important;
+}
+
+.slick-prev{
+  left: -12% !important;
+}
+
+.slick-next {
+  right: -8% !important;
+}
+
+.slick-slider ,.slick-initialized{
+  top: -210px;
+}

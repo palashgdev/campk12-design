@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="30px" viewBox="0 0 147 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>A9962941-111D-45F7-AE0A-A4FC37E80EDE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="13.5936921 11.3728466 6.80889784 0.135288344 20.3626069 0.126208589"></polygon>
+        <filter x="-14.8%" y="-17.8%" width="129.5%" height="135.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="13.5939054 11.3728466 6.80911115 22.6104049 20.3628202 22.6194847"></polygon>
+        <filter x="-51.6%" y="-44.5%" width="203.3%" height="224.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-44.3%" y="-35.6%" width="188.5%" height="206.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-6" points="0.0315693085 11.3704859 13.5857524 11.3704859 6.80877934 0.12838773"></polygon>
+        <filter x="-51.6%" y="-44.5%" width="203.3%" height="224.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UIAssignment_LandingPage_Simplified-Copy" transform="translate(-134.000000, -54.000000)">
+            <g id="CampK12-Logo" transform="translate(137.000000, 55.000000)">
+                <g id="Group-59">
+                    <path d="M35.4445874,20.231044 C33.7325789,20.231044 32.1845943,19.8590477 30.8005874,19.115044 C29.4165805,18.3710403 28.3285914,17.3390506 27.5365874,16.019044 C26.7445835,14.6990374 26.3485874,13.2070523 26.3485874,11.543044 C26.3485874,9.87903568 26.7445835,8.3870506 27.5365874,7.067044 C28.3285914,5.7470374 29.4165805,4.71504772 30.8005874,3.971044 C32.1845943,3.22704028 33.7405788,2.855044 35.4685874,2.855044 C36.9245947,2.855044 38.2405815,3.11104144 39.4165874,3.623044 C40.5925933,4.13504656 41.5805834,4.8710392 42.3805874,5.831044 L39.8845874,8.135044 C38.7485817,6.82303744 37.3405958,6.167044 35.6605874,6.167044 C34.6205822,6.167044 33.6925915,6.39504172 32.8765874,6.851044 C32.0605833,7.30704628 31.4245897,7.94303992 30.9685874,8.759044 C30.5125851,9.57504808 30.2845874,10.5030388 30.2845874,11.543044 C30.2845874,12.5830492 30.5125851,13.5110399 30.9685874,14.327044 C31.4245897,15.1430481 32.0605833,15.7790417 32.8765874,16.235044 C33.6925915,16.6910463 34.6205822,16.919044 35.6605874,16.919044 C37.3405958,16.919044 38.7485817,16.2550506 39.8845874,14.927044 L42.3805874,17.231044 C41.5805834,18.2070489 40.5885933,18.9510414 39.4045874,19.463044 C38.2205815,19.9750466 36.9005947,20.231044 35.4445874,20.231044 Z M55.9238017,16.343044 L48.1238017,16.343044 L46.6358017,19.943044 L42.6518017,19.943044 L50.1398017,3.143044 L53.9798017,3.143044 L61.4918017,19.943044 L57.4118017,19.943044 L55.9238017,16.343044 Z M54.6998017,13.391044 L52.0358017,6.959044 L49.3718017,13.391044 L54.6998017,13.391044 Z M78.731016,19.943044 L78.707016,9.863044 L73.763016,18.167044 L72.011016,18.167044 L67.091016,10.079044 L67.091016,19.943044 L63.443016,19.943044 L63.443016,3.143044 L66.659016,3.143044 L72.947016,13.583044 L79.139016,3.143044 L82.331016,3.143044 L82.379016,19.943044 L78.731016,19.943044 Z M93.8342303,3.143044 C95.3222378,3.143044 96.6142248,3.39104152 97.7102303,3.887044 C98.8062358,4.38304648 99.6502274,5.08703944 100.24223,5.999044 C100.834233,6.91104856 101.13023,7.99103776 101.13023,9.239044 C101.13023,10.4710502 100.834233,11.5470394 100.24223,12.467044 C99.6502274,13.3870486 98.8062358,14.0910416 97.7102303,14.579044 C96.6142248,15.0670464 95.3222378,15.311044 93.8342303,15.311044 L90.4502303,15.311044 L90.4502303,19.943044 L86.5622303,19.943044 L86.5622303,3.143044 L93.8342303,3.143044 Z M93.6182303,12.143044 C94.7862362,12.143044 95.6742273,11.8910465 96.2822303,11.387044 C96.8902334,10.8830415 97.1942303,10.1670486 97.1942303,9.239044 C97.1942303,8.29503928 96.8902334,7.57104652 96.2822303,7.067044 C95.6742273,6.56304148 94.7862362,6.311044 93.6182303,6.311044 L90.4502303,6.311044 L90.4502303,12.143044 L93.6182303,12.143044 Z M110.209445,13.343044 L107.953445,15.695044 L107.953445,19.943044 L104.089445,19.943044 L104.089445,3.143044 L107.953445,3.143044 L107.953445,10.991044 L115.393445,3.143044 L119.713445,3.143044 L112.753445,10.631044 L120.121445,19.943044 L115.585445,19.943044 L110.209445,13.343044 Z M127.952659,3.143044 L127.952659,19.943044 L124.064659,19.943044 L124.064659,6.263044 L120.704659,6.263044 L120.704659,3.143044 L127.952659,3.143044 Z M143.631873,16.775044 L143.631873,19.943044 L130.935873,19.943044 L130.935873,17.423044 L137.415873,11.303044 C138.103877,10.6470407 138.567872,10.0830464 138.807873,9.611044 C139.047874,9.13904164 139.167873,8.67104632 139.167873,8.207044 C139.167873,7.53504064 138.939875,7.0190458 138.483873,6.659044 C138.027871,6.2990422 137.359878,6.119044 136.479873,6.119044 C135.74387,6.119044 135.079876,6.2590426 134.487873,6.539044 C133.89587,6.8190454 133.399875,7.2390412 132.999873,7.799044 L130.167873,5.975044 C130.823876,4.99903912 131.727867,4.23504676 132.879873,3.683044 C134.031879,3.13104124 135.351866,2.855044 136.839873,2.855044 C138.087879,2.855044 139.179869,3.05904196 140.115873,3.467044 C141.051878,3.87504604 141.779871,4.45104028 142.299873,5.195044 C142.819876,5.93904772 143.079873,6.81503896 143.079873,7.823044 C143.079873,8.73504856 142.887875,9.59104 142.503873,10.391044 C142.119871,11.191048 141.375879,12.1030389 140.271873,13.127044 L136.407873,16.775044 L143.631873,16.775044 Z" id="CAMPK12" fill="#FFFFFF"></path>
+                    <g id="Campk12">
+                        <g id="Group-13">
+                            <g id="Group-11">
+                                <g id="Page-1" transform="translate(0.000000, 0.263804)">
+                                    <polygon id="Stroke-9" stroke="#FEFEFE" stroke-width="0.5" stroke-linejoin="round" points="0.0316404105 11.3704178 6.80861343 0.128546626 13.5855865 11.3704178"></polygon>
+                                    <g id="Fill-1">
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    </g>
+                                    <polygon id="Stroke-2" stroke="#ECECEC" stroke-width="0.5" stroke-linejoin="round" points="13.5936921 11.3728466 6.80889784 0.135288344 20.3626069 0.126208589"></polygon>
+                                    <g id="Fill-3">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                                    </g>
+                                    <polygon id="Stroke-4" stroke="#EDEDED" stroke-width="0.5" stroke-linejoin="round" points="13.5939054 11.3728466 6.80911115 22.6104049 20.3628202 22.6194847"></polygon>
+                                    <polygon id="Fill-5" fill="#FFFFFF" points="0.0319959207 11.3751847 6.80896894 22.6172828 13.586179 11.3751847"></polygon>
+                                    <polygon id="Stroke-6" stroke="#FEFEFE" stroke-width="0.5" stroke-linejoin="round" points="0.0319722201 11.3752755 6.80894524 22.6171466 13.5859183 11.3752755"></polygon>
+                                    <g id="Fill-8">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

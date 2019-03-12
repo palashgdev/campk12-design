@@ -1,0 +1,36 @@
+/*******************************************************************************
+                            Common-CSS
+********************************************************************************/
+.footer-container {
+  display: flex; }
+
+.footer-container {
+  justify-content: center; }
+
+.footer-container {
+  align-items: center; }
+
+/*******************************************************************************
+                            APP
+********************************************************************************/
+.app-container {
+  background-image: linear-gradient(to bottom, #eef9ff, #ade1ff); }
+
+.card-wrapper {
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  margin-bottom: 35px; }
+
+.footer-container {
+  background-image: linear-gradient(82deg, #207cee, #73caf3);
+  width: 100%;
+  height: 91px; }
+
+.footer-text-container {
+  text-align: center;
+  font-weight: normal;
+  font-style: normal;
+  color: white; }

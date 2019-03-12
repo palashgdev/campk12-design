@@ -1,0 +1,46 @@
+/*******************************************************************************
+                            Common-CSS
+********************************************************************************/
+.course-card-image-container, .course-card-text {
+  display: flex; }
+
+.course-card-image-container, .course-card-text {
+  justify-content: center; }
+
+/*******************************************************************************
+                            APP
+********************************************************************************/
+.app-container {
+  background-image: linear-gradient(to bottom, #eef9ff, #ade1ff); }
+
+.card-wrapper {
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  margin-bottom: 35px; }
+
+.course-card-container {
+  width: 209px !important;
+  height: 228px;
+  background: white;
+  border-radius: 3px;
+  margin-left: 5px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
+
+.course-card-container:hover {
+  box-shadow: 0 2px 30px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer; }
+
+.course-card-image-container {
+  padding: 24px 50px 20px 50px; }
+
+.course-card-text {
+  text-align: center;
+  font-size: 20px;
+  padding: 0px 24px 0 24px;
+  line-height: 1.4;
+  letter-spacing: 0.2px;
+  justify-content: center;
+  color: #1f2a55; }

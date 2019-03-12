@@ -1,0 +1,43 @@
+/*******************************************************************************
+                            Common-CSS
+********************************************************************************/
+
+%flex-wrapper{
+  display: flex;
+}
+
+%justify-content-center{
+  justify-content: center;
+}
+
+%justify-content-space-between{
+  justify-content: space-between;
+}
+
+%align-items-center{
+  align-items: center;
+}
+
+%position-relative{
+  position: relative;
+}
+
+%position-absolute{
+  position: absolute;
+}
+
+/*******************************************************************************
+                            APP
+********************************************************************************/
+.app-container{
+  background-image: linear-gradient(to bottom, #eef9ff, #ade1ff);
+}
+
+.card-wrapper{
+  display: flex;
+  justify-content: space-around;
+  width: 70%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  margin-bottom: 35px;
+}

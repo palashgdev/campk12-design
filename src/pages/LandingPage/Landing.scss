@@ -1,0 +1,237 @@
+@import "./LandingPage";
+
+/*********************************************************************************
+                            HEADER COURSE
+**********************************************************************************/
+.app-container{
+}
+
+.app-header{
+
+  @extend %position-relative;
+  background: url("../../images/Header/Header.svg");
+  height: 800px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.hero-text-container{
+  @extend %position-absolute;
+  @extend %flex-wrapper;
+  top: 150px;
+  margin: 0px 90px 0 90px;
+}
+
+.header-text{
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 1.15;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  padding-top: 25px;
+}
+
+.header-sub-text-container{
+  padding-top: 35px;
+  font-size: 22px;
+  line-height: 1.42;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+
+.header-sub-text-coin-container{
+  @extend %flex-wrapper;
+  @extend %align-items-center;
+}
+
+.header-image{
+  border-radius: 5px;
+}
+
+.header-sub-text{
+
+}
+
+
+
+
+/*********************************************************************************
+                            COURSE CARD
+**********************************************************************************/
+
+.card-course-containers{
+  margin-bottom: 20px;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1.38;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #ffffff;
+  position: absolute;
+  top: 525px;
+  width: 100%;
+}
+
+
+/*********************************************************************************
+                            UPCOMING COURSE
+**********************************************************************************/
+.upcoming-text-wrapper{
+  margin-bottom: 55px;
+  margin-top: -144px;
+}
+
+.upcoming-text-container{
+  @extend %flex-wrapper;
+  @extend %justify-content-center;
+  @extend %align-items-center;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1.38;
+  letter-spacing: 0.2px;
+  color: #1f2a55;
+}
+
+.upcoming-live-dot{
+  background: white;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.upcoming-live-container{
+  @extend %flex-wrapper;
+  @extend %justify-content-center;
+  @extend %align-items-center;
+  @extend %justify-content-space-between;
+  width: 55px;
+  height: 34px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 2.44;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+  padding:0px 7px 0px 7px;
+  border-radius: 3px;
+  background: #de9dff;
+  margin-left: 10px;
+}
+
+.upcoming-sub-text-container{
+  @extend %flex-wrapper;
+  @extend %justify-content-center;
+  @extend %align-items-center;
+  font-size: 17px;
+  line-height: 1.53;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #777b8c;
+}
+
+.upcoming-grade-skill-container{
+  @extend %flex-wrapper;
+  @extend %justify-content-center;
+  flex-wrap: wrap;
+  font-size: 17px;
+  line-height: 1.53;
+  letter-spacing: 0.2px;
+  color: #777b8c;
+}
+
+.upcoming-grade-icon{
+  @extend %flex-wrapper;
+  @extend %justify-content-center;
+  @extend %align-items-center;
+  margin-left: 10px;
+}
+
+/*********************************************************************************
+                            MEDIA QUERY
+**********************************************************************************/
+@media(max-width:1321px){
+  .upcoming-text-container{
+    margin-top: 180px;
+  }
+  .app-header{
+    height: 557px;
+    background-size:inherit;
+  }
+  .header-sub-text-container{
+    font-size: 25px;
+    padding-top: 60px;
+  }
+  .header-text-container{
+    width: 100%;
+  }
+  .header-text{
+    font-size: 45px;
+  }
+  .header-image{
+    display: none;
+  }
+  .hero-text-container{
+    margin: 0px auto;
+    width: 100%;
+    text-align: center;
+    height: 200px;
+  }
+  .header-sub-text-coin-container{
+    justify-content: center;
+  }
+  .course-card-containers{
+    display: none;
+  }
+}
+
+@media(max-width:1000px){
+  .upcoming-live-container{
+    width: 45px;
+    font-size: 15px;
+  }
+}
+
+@media(max-width:750px){
+  .header-text{
+    font-size: 30px;
+  }
+  .header-sub-text-container{
+    font-size: 20px;
+  }
+  .header-text-container{
+    height: 240px;
+  }
+}
+
+
+@media (max-width:600px){
+  .upcoming-text-container{
+    font-size: 24px;
+  }
+  .upcoming-sub-text-container,.upcoming-grade-skill-container{
+    font-size: 15px;
+  }
+}
+
+@media(max-width:550px){
+  .header-text{
+    font-size:29px;
+  }
+  .header-sub-text-container{
+    font-size: 17px;
+  }
+}
+@media(max-width:450px){
+  .header-sub-text-container{
+    font-size: 15px;
+  }
+}
+@media (max-width:400px){
+  .upcoming-text-container{
+    font-size: 18px;
+  }
+  .upcoming-sub-text-container,.upcoming-grade-skill-container{
+    font-size: 13px;
+  }
+}
+
+
